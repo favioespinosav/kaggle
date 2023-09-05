@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Airbus+Ship+Detection+Challenge)](https://git.io/typing-svg)
 <img src = "https://www.mdpi.com/sensors/sensors-22-02713/article_deploy/html/images/sensors-22-02713-g006.png" >
-<h1 align="center"> Description</h1>
+<h1 align="center" Description /h1>
 Airbus is excited to challenge Kagglers to build a model that detects all ships in satellite images as quickly as possible. Can you find them even in imagery with clouds or haze?
 
 Here’s the backstory: Shipping traffic is growing fast. More ships increase the chances of infractions at sea like environmentally devastating ship accidents, piracy, illegal fishing, drug trafficking, and illegal cargo movement. This has compelled many organizations, from environmental protection agencies to insurance companies and national government authorities, to have a closer watch over the open seas.
